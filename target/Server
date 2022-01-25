@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-25T02:54:09.658857Z</date>
+  <millis>1643079249658</millis>
+  <nanos>857000</nanos>
+  <sequence>0</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Server start.</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:28.980653Z</date>
+  <millis>1643079268980</millis>
+  <nanos>653000</nanos>
+  <sequence>1</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Socket[addr=/127.0.0.1,port=37494,localport=1234] connect to server.</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:28.985191Z</date>
+  <millis>1643079268985</millis>
+  <nanos>191000</nanos>
+  <sequence>2</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Socket[addr=/127.0.0.1,port=37494,localport=1234] requested to create a room 2121</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:28.988348Z</date>
+  <millis>1643079268988</millis>
+  <nanos>348000</nanos>
+  <sequence>3</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Room 2121 create.</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:30.881233Z</date>
+  <millis>1643079270881</millis>
+  <nanos>233000</nanos>
+  <sequence>4</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Room 2121: Socket[addr=/127.0.0.1,port=37494,localport=1234] ready.</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:30.884258Z</date>
+  <millis>1643079270884</millis>
+  <nanos>258000</nanos>
+  <sequence>5</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request board from Socket[addr=/127.0.0.1,port=37494,localport=1234]</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:35.503493Z</date>
+  <millis>1643079275503</millis>
+  <nanos>493000</nanos>
+  <sequence>6</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Socket[addr=/127.0.0.1,port=37496,localport=1234] connect to server.</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:35.505615Z</date>
+  <millis>1643079275505</millis>
+  <nanos>615000</nanos>
+  <sequence>7</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Socket[addr=/127.0.0.1,port=37496,localport=1234] requested to connect a room null</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:35.506959Z</date>
+  <millis>1643079275506</millis>
+  <nanos>959000</nanos>
+  <sequence>8</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Socket[addr=/127.0.0.1,port=37496,localport=1234] connect to 2121.</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:38.518017Z</date>
+  <millis>1643079278518</millis>
+  <nanos>17000</nanos>
+  <sequence>9</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Room 2121: Socket[addr=/127.0.0.1,port=37496,localport=1234] ready.</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:38.520022Z</date>
+  <millis>1643079278520</millis>
+  <nanos>22000</nanos>
+  <sequence>10</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request board from Socket[addr=/127.0.0.1,port=37496,localport=1234]</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:38.554930Z</date>
+  <millis>1643079278554</millis>
+  <nanos>930000</nanos>
+  <sequence>11</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Announce the start both!</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:41.701471Z</date>
+  <millis>1643079281701</millis>
+  <nanos>471000</nanos>
+  <sequence>12</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Room 2121 Socket[addr=/127.0.0.1,port=37494,localport=1234]: 3-0</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:44.724943Z</date>
+  <millis>1643079284724</millis>
+  <nanos>943000</nanos>
+  <sequence>13</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Room 2121 Socket[addr=/127.0.0.1,port=37496,localport=1234]: 6-0</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:47.838626Z</date>
+  <millis>1643079287838</millis>
+  <nanos>626000</nanos>
+  <sequence>14</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Room 2121 Socket[addr=/127.0.0.1,port=37496,localport=1234]: 7-0</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:48.311514Z</date>
+  <millis>1643079288311</millis>
+  <nanos>514000</nanos>
+  <sequence>15</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Room 2121 Socket[addr=/127.0.0.1,port=37496,localport=1234]: 8-0</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:51.282641Z</date>
+  <millis>1643079291282</millis>
+  <nanos>641000</nanos>
+  <sequence>16</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Socket[addr=/127.0.0.1,port=37494,localport=1234] left...</message>
+</record>
+<record>
+  <date>2022-01-25T02:54:53.473956Z</date>
+  <millis>1643079293473</millis>
+  <nanos>956000</nanos>
+  <sequence>17</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Socket[addr=/127.0.0.1,port=37496,localport=1234] left...</message>
+</record>
+</log>

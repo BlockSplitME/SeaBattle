@@ -1,0 +1,13 @@
+/home/evgeniy/suai/kur/server/src/main/java/src/model/Board.java
+/home/evgeniy/suai/kur/server/src/main/java/src/controller/Controller.java
+/home/evgeniy/suai/kur/server/src/main/java/src/log/ForLogger.java
+/home/evgeniy/suai/kur/server/src/main/java/src/MainServer.java
+/home/evgeniy/suai/kur/server/src/main/java/src/TCP/server/ClientHandler.java
+/home/evgeniy/suai/kur/server/src/main/java/src/model/BoxPoint.java
+/home/evgeniy/suai/kur/server/src/main/java/src/model/ModelBoard.java
+/home/evgeniy/suai/kur/server/src/main/java/src/TCP/server/Tools.java
+/home/evgeniy/suai/kur/server/src/main/java/src/model/Defolt.java
+/home/evgeniy/suai/kur/server/src/main/java/src/TCP/server/Session.java
+/home/evgeniy/suai/kur/server/src/main/java/src/TCP/server/Base.java
+/home/evgeniy/suai/kur/server/src/main/java/src/model/Ships.java
+/home/evgeniy/suai/kur/server/src/main/java/src/TCP/server/TCPServer.java

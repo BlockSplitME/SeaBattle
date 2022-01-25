@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-25T10:25:54.189698Z</date>
+  <millis>1643106354189</millis>
+  <nanos>698000</nanos>
+  <sequence>0</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>src.log.ForLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Server start.</message>
+</record>
+</log>
